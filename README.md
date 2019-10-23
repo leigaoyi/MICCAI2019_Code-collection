@@ -17,9 +17,13 @@ Collect the MICCAI19 papers with code, as long as I can find
 
 [Selective Feature Aggregation Network with Area-Boundary Constraints for Polyp Segmentation](https://github.com/Yuqi-cuhk/Polyp-Seg)
 
-[Multi-scale Cell Instance Segmentation with Keypoint Graph Based Bounding Boxes](https://github.com/yijingru/KGInstance-Segmentation)
+[Multi-scale Cell Instance Segmentation with Keypoint Graph Based Bounding Boxes](https://github.com/yijingru/KG_Instance_Segmentation)
 
 [Improving Nuclei/Gland Instance Segmentation in Histopathology Images by Full Resolution Neural Network and Spatial Constrained Loss](https://github.com/huiqu18/FullNet-varCE)
+
+
+[CORAL8: Concurrent Object Regression for Area Localization in Medical Image Panels](https://github.com/cradleai/rdif)
+
 
 
 
