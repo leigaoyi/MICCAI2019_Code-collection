@@ -29,7 +29,7 @@ Collect the MICCAI19 papers with code, as long as I can find
 
 [Instance Segmentation of Biomedical Images with an Object-Aware Embedding Learned with Local Constraints](https://github.com/looooongChen/instance_segmentation_with_pixel_embeddings/)
 
-[Synthetic Patches, Real Images: Screening for Centrosome Aberrations in EM Images of Human Cancer Cells](https://github.com/kreshuklab/centriole detection)
+[Synthetic Patches, Real Images: Screening for Centrosome Aberrations in EM Images of Human Cancer Cells](https://github.com/kreshuklab/centriole_detection)
 
 
 [Patch Transformer for Multi-tagging Whole Slide Histopathology Images](https://github.com/tkipf/gcn)
@@ -43,6 +43,8 @@ Collect the MICCAI19 papers with code, as long as I can find
 
 **[Attention Guided Network for Retinal
 Image Segmentation](https://github.com/HzFu/AGNet)**
+
+
 
 
 ## Part 2
